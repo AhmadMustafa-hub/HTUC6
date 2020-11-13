@@ -1,0 +1,99 @@
+        body{
+			font-family: sans-serif;
+			background-color: #373737;
+		}
+	    .navbar{
+	    	background-color: #bcb3b3;
+	    	padding:23px;
+	        margin: -18px;
+	        padding-bottom: 21px;
+
+            }
+        a{
+        	color:white;
+        	margin: 9px 6px;
+        	text-decoration: none;
+        	font-size: 19px;
+        	padding:37px 12px;
+            text-align: center;
+            padding-bottom: 15px;
+            overflow: hidden;
+            margin: -25px 6px;
+            margin-right: 17px;
+            float: right;
+
+         }
+        .navbar a:hover{
+        	 background-color:  #ddd;
+        	 color:#0b0c0b;
+
+
+        }
+        #active{
+        	 background-color:#4CAF50;
+        	 margin:-14px;
+        }
+        #active:hover{
+        	background-color:#4CAF50;
+        	color:#f5f8f5;
+        }
+        .logo{
+        	display: inline;
+        	padding-left: 201px;
+        	color: #8C8899;
+        }
+        .line{
+        	margin-top: 18px;
+        	color:#807373;
+        	width: 2000px;
+            margin-left: -10px;
+            border: 1px solid;
+
+        }
+        .pic{
+        	margin-left: 322px;
+            margin-top: 44px;
+        }
+        .service{
+        	    width: 17%;
+                margin-left: 283px;
+                margin-top: 68px;
+                display: inline-block;
+        }
+        
+        .portfolio{
+        	    width: 17%;
+                margin-left: 50px;
+                margin-top: 68px;
+                display: inline-block;
+
+        }
+        .top{
+        	background-color: #303030;
+        	color:#fff;
+        }
+        .text{
+        	color: #fff;
+        }
+        .about{
+            width: 17%;
+            margin-left: 50px;
+            margin-top: 68px;
+            display: inline-block;
+        }
+        .foot{
+        	color: #bcb3b3;
+            border: 1px solid;
+            margin-left: -10px;
+            width: 104%;
+        }
+        .line2{
+        	color:#807373;
+        	width: 2000px;
+            margin-left: -10px;
+            border: 1px solid;
+
+        }
+        .footer{
+        	text-align: center;
+        }
